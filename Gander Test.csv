@@ -1,0 +1,414 @@
+﻿first_name,last_name,is_manager,location_id,organization_id,is_supervisor,roles_id,specialty_id,Column1,Column2,location,organization,role,specialty,Column3,loc,org
+Shannon,Ivany,0,1,2,0,27,13,,,Gander ACC,Technology,Systems Specialist,N/A,No,1,2
+Kenneth,Stack,0,1,2,0,28,13,,,Gander ACC,Technology,Flight Service Support Specialist,N/A,No,1,2
+Carol,Traverse,0,1,5,0,29,13,,,Gander ACC,ATS Learning,Learning Quality Specialist,N/A,No,1,5
+Don,Leonard,8,1,5,0,21,13,,,Gander ACC,ATS Learning,"Manager, ATS Learning Delivery",N/A,Yes,1,5
+Deanna,Jeans,8,1,5,0,21,13,,,Gander ACC,ATS Learning,Manager ATS Learning Development,N/A,Yes,1,5
+Chloe,Power,0,9,5,0,49,15,,,Gander Tower,ATS Learning,Air Traffic Controller Student,Student,No,9,5
+Jane,Mills,0,9,5,0,49,15,,,Gander Tower,ATS Learning,Air Traffic Controller Student,Student,No,9,5
+Kevin,O'Keefe,0,9,5,0,49,15,,,Gander Tower,ATS Learning,Air Traffic Controller Student,Student,No,9,5
+Mackenzie,Landry,0,9,5,0,49,15,,,Gander Tower,ATS Learning,Air Traffic Controller Student,Student,No,9,5
+Nathaniel,Tipple,0,9,5,0,49,15,,,Gander Tower,ATS Learning,Air Traffic Controller Student,Student,No,9,5
+Trevor,Ferch,0,9,5,0,49,15,,,Gander Tower,ATS Learning,Air Traffic Controller Student,Student,No,9,5
+Ayrton,Baker,0,9,5,0,49,15,,,Gander Tower,ATS Learning,Air Traffic Controller Student,Student,No,9,5
+Marius,Jullien,0,9,5,0,49,15,,,Gander Tower,ATS Learning,Air Traffic Controller Student,Student,No,9,5
+Sarah,Collins,0,9,5,0,49,15,,,Gander Tower,ATS Learning,Air Traffic Controller Student,Student,No,9,5
+Shaunna,Patey,0,9,5,0,49,15,,,Gander Tower,ATS Learning,Air Traffic Controller Student,Student,No,9,5
+Janet,Downton,0,1,5,0,31,15,,,Gander ACC,ATS Learning,Flight Service Specialist Student,Student,No,1,5
+Jonathan,Osmond,0,1,5,0,31,15,,,Gander ACC,ATS Learning,Flight Service Specialist Student,Student,No,1,5
+Katelyn,Harbin,0,1,5,0,31,15,,,Gander ACC,ATS Learning,Flight Service Specialist Student,Student,No,1,5
+Darrin,Wilkins,0,1,5,0,31,15,,,Gander ACC,ATS Learning,Flight Service Specialist Student,Student,No,1,5
+Rachel,Farrell,0,1,5,0,31,15,,,Gander ACC,ATS Learning,Flight Service Specialist Student,Student,No,1,5
+Stephen,Brown,0,1,5,0,32,13,,,Gander ACC,ATS Learning,IFR Program Specialist,N/A,No,1,5
+Donalda,Organ,0,1,5,0,32,13,,,Gander ACC,ATS Learning,IFR Program Specialist,N/A,No,1,5
+Heather,Moore,0,1,5,0,32,13,,,Gander ACC,ATS Learning,IFR Program Specialist,N/A,No,1,5
+Paul,Langdon,0,1,5,0,32,13,,,Gander ACC,ATS Learning,IFR Program Specialist,N/A,No,1,5
+Carol,Donahue,0,1,5,0,22,13,,,Gander ACC,ATS Learning,Operational Training Specialist,N/A,No,1,5
+Christine,Hunt,0,1,5,0,22,13,,,Gander ACC,ATS Learning,Operational Training Specialist,N/A,No,1,5
+Gregory,Penney,0,1,5,0,22,13,,,Gander ACC,ATS Learning,Operational Training Specialist,N/A,No,1,5
+Josh,Stoyles,0,1,5,0,22,13,,,Gander ACC,ATS Learning,Operational Training Specialist,N/A,No,1,5
+Kristen,Harris,0,1,5,0,22,13,,,Gander ACC,ATS Learning,Operational Training Specialist,N/A,No,1,5
+Megan,Bursey,0,1,5,0,22,13,,,Gander ACC,ATS Learning,Operational Training Specialist,N/A,No,1,5
+Sandra,Chiasson,0,1,5,0,22,13,,,Gander ACC,ATS Learning,Operational Training Specialist,N/A,No,1,5
+Scott,Cook,0,1,5,0,22,13,,,Gander ACC,ATS Learning,Operational Training Specialist,N/A,No,1,5
+Sherry-Lynn,Steele,0,1,5,0,33,13,,,Gander ACC,ATS Learning,OTS Supervisor,N/A,No,1,5
+Sasha,Wilkins,0,1,5,0,34,13,,,Gander ACC,ATS Learning,Regional Learning Quality Specialist,N/A,No,1,5
+Thomas,Healey,0,1,5,0,45,13,,,Gander ACC,ATS Learning,Regional VFR Training Specialist,N/A,No,1,5
+Nicole,Mitchell,0,9,5,0,35,13,,,Gander Tower,ATS Learning,Regional VFR Training Specialist,N/A,No,9,5
+Madison,Kean,0,1,5,0,36,13,,,Gander ACC,ATS Learning,Training Administrator,N/A,No,1,5
+Douglas,Tuff,0,1,2,0,37,19,,,Gander ACC,Technology,Construction Infrastructure Specialist,CFS,No,1,2
+Darrell,Lynch,0,1,2,0,38,19,,,Gander ACC,Technology,Electrical Infrastructure Specialist,CFS,No,1,2
+Corey,Newhook,8,1,2,0,26,19,,,Gander ACC,Technology,"Manager, Facility Maintenance",CFS,Yes,1,2
+Mike,Gillingham,8,1,2,0,39,19,,,Gander ACC,Technology,FIR Construction Manager,CFS,Yes,1,2
+Kerry,Wheeler,0,1,2,0,40,19,,,Gander ACC,Technology,Facilities Maintenance Infrastructure Specialist,CFS,No,1,2
+Sarah,Battcock,8,1,7,0,41,13,,,Gander ACC,Human Resources,Human Resources Business Partner,N/A,Yes,1,7
+Abigail,Mills,0,1,7,0,42,13,,,Gander ACC,Human Resources,Human Resources Business Advisor,N/A,No,1,7
+Kimberly,Norris,0,1,7,0,42,13,,,Gander ACC,Human Resources,Human Resources Business Advisor,N/A,No,1,7
+Angela,Hodder,0,1,7,0,43,13,,,Gander ACC,Human Resources,Employee Wellness Specialist,N/A,No,1,7
+Cathy,Regular,0,1,7,0,44,13,,,Gander ACC,Human Resources,Talent Acquisition Specialist,N/A,No,1,7
+Matt,Mills,0,1,2,0,45,20,,,Gander ACC,Technology,Client Support Specialist,IM,No,1,2
+Blaine,Mills,0,1,1,0,46,13,,,Gander ACC,Operations,Flight Service Specialist,N/A,No,1,1
+Lisa,Jackson,0,1,1,0,25,13,,,Gander ACC,Operations,Administrative Assistant,N/A,No,1,1
+Adam,Boland,0,1,1,0,46,21,,,Gander ACC,Operations,Flight Service Specialist,iFSS,No,1,1
+Adam,McCarthy,0,1,1,0,46,21,,,Gander ACC,Operations,Flight Service Specialist,iFSS,No,1,1
+Alexa,Osmond,0,1,1,0,46,21,,,Gander ACC,Operations,Flight Service Specialist,iFSS,No,1,1
+Alex,Kean,0,1,1,0,46,21,,,Gander ACC,Operations,Flight Service Specialist,iFSS,No,1,1
+Allison,Parratt,0,1,1,0,46,21,,,Gander ACC,Operations,Flight Service Specialist,iFSS,No,1,1
+Bradley,Mouland,0,1,1,0,46,21,,,Gander ACC,Operations,Flight Service Specialist,iFSS,No,1,1
+Brent,Jenkins,0,1,1,0,46,21,,,Gander ACC,Operations,Flight Service Specialist,iFSS,No,1,1
+Brian,Ryan,0,1,1,0,46,21,,,Gander ACC,Operations,Flight Service Specialist,iFSS,No,1,1
+Brian,Smith,0,1,1,0,46,21,,,Gander ACC,Operations,Flight Service Specialist,iFSS,No,1,1
+Bruce,Meade,0,1,1,0,46,21,,,Gander ACC,Operations,Flight Service Specialist,iFSS,No,1,1
+Mark,Kelly,0,1,1,0,46,21,,,Gander ACC,Operations,Flight Service Specialist,iFSS,No,1,1
+Catherine,Gill,0,1,1,0,46,21,,,Gander ACC,Operations,Flight Service Specialist,iFSS,No,1,1
+Catherine,Power,0,1,1,0,46,21,,,Gander ACC,Operations,Flight Service Specialist,iFSS,No,1,1
+Celena,Alcock,0,1,1,0,46,21,,,Gander ACC,Operations,Flight Service Specialist,iFSS,No,1,1
+Devin,Edwards,0,1,1,0,46,21,,,Gander ACC,Operations,Flight Service Specialist,iFSS,No,1,1
+George,Ivany,0,1,1,0,46,21,,,Gander ACC,Operations,Flight Service Specialist,iFSS,No,1,1
+Glen,Mason,0,1,1,0,46,21,,,Gander ACC,Operations,Flight Service Specialist,iFSS,No,1,1
+Gordon,Sargent,0,1,1,0,46,21,,,Gander ACC,Operations,Flight Service Specialist,iFSS,No,1,1
+Gwendolyn,Campbell,0,1,1,0,46,21,,,Gander ACC,Operations,Flight Service Specialist,iFSS,No,1,1
+Heather,Saulnier,0,1,1,0,46,21,,,Gander ACC,Operations,Flight Service Specialist,iFSS,No,1,1
+Jamie,Harnum,0,1,1,0,46,21,,,Gander ACC,Operations,Flight Service Specialist,iFSS,No,1,1
+Jamie,Wilkins,0,1,1,0,46,21,,,Gander ACC,Operations,Flight Service Specialist,iFSS,No,1,1
+Jason,Evans,0,1,1,0,46,21,,,Gander ACC,Operations,Flight Service Specialist,iFSS,No,1,1
+Jason,Hynes,0,1,1,0,46,21,,,Gander ACC,Operations,Flight Service Specialist,iFSS,No,1,1
+Jason,Newman,0,1,1,0,46,21,,,Gander ACC,Operations,Flight Service Specialist,iFSS,No,1,1
+Jeffrey,Blundon,0,1,1,0,46,21,,,Gander ACC,Operations,Flight Service Specialist,iFSS,No,1,1
+Jessica,Strickland,0,1,1,0,46,21,,,Gander ACC,Operations,Flight Service Specialist,iFSS,No,1,1
+Jessica,Stuckey,0,1,1,0,46,21,,,Gander ACC,Operations,Flight Service Specialist,iFSS,No,1,1
+Joseph,Murphy,0,1,1,0,46,21,,,Gander ACC,Operations,Flight Service Specialist,iFSS,No,1,1
+Kate,O'Brien,0,1,1,0,46,21,,,Gander ACC,Operations,Flight Service Specialist,iFSS,No,1,1
+Kenneth,Turner,0,1,1,0,46,21,,,Gander ACC,Operations,Flight Service Specialist,iFSS,No,1,1
+Kevin,Dove,0,1,1,0,46,21,,,Gander ACC,Operations,Flight Service Specialist,iFSS,No,1,1
+Marc,Eady,0,1,1,0,46,21,,,Gander ACC,Operations,Flight Service Specialist,iFSS,No,1,1
+Mark,Burton,0,1,1,0,46,21,,,Gander ACC,Operations,Flight Service Specialist,iFSS,No,1,1
+Mark,Goobie,0,1,1,0,46,21,,,Gander ACC,Operations,Flight Service Specialist,iFSS,No,1,1
+Michael,Conway,0,1,1,0,46,21,,,Gander ACC,Operations,Flight Service Specialist,iFSS,No,1,1
+Michael,O'Reilly,0,1,1,0,46,21,,,Gander ACC,Operations,Flight Service Specialist,iFSS,No,1,1
+Michael,Stewart,0,1,1,0,46,21,,,Gander ACC,Operations,Flight Service Specialist,iFSS,No,1,1
+Nicholas,Gravelle,0,1,1,0,46,21,,,Gander ACC,Operations,Flight Service Specialist,iFSS,No,1,1
+Paul,Blake,0,1,1,0,46,21,,,Gander ACC,Operations,Flight Service Specialist,iFSS,No,1,1
+Paul,Pittman,0,1,1,0,46,21,,,Gander ACC,Operations,Flight Service Specialist,iFSS,No,1,1
+Renée,Murray,0,1,1,0,46,21,,,Gander ACC,Operations,Flight Service Specialist,iFSS,No,1,1
+Roger,Granville,0,1,1,0,46,21,,,Gander ACC,Operations,Flight Service Specialist,iFSS,No,1,1
+Rudy,Riedlsperger,0,1,1,0,46,21,,,Gander ACC,Operations,Flight Service Specialist,iFSS,No,1,1
+Sharon,Marshall-Freij,0,1,1,0,46,21,,,Gander ACC,Operations,Flight Service Specialist,iFSS,No,1,1
+Stephen,Hoskins,0,1,1,0,46,21,,,Gander ACC,Operations,Flight Service Specialist,iFSS,No,1,1
+Stephen,Johnson,0,1,1,0,46,21,,,Gander ACC,Operations,Flight Service Specialist,iFSS,No,1,1
+Valerie,Short,0,1,1,0,46,21,,,Gander ACC,Operations,Flight Service Specialist,iFSS,No,1,1
+William,Leights,0,1,1,0,46,21,,,Gander ACC,Operations,Flight Service Specialist,iFSS,No,1,1
+Gina,Sweetapple,0,1,1,0,31,21,,,Gander ACC,Operations,Flight Service Specialist Student,iFSS,No,1,1
+Brian,Oram,0,1,1,0,47,21,,,Gander ACC,Operations,FSS Team Supervisor,iFSS,No,1,1
+Ian,Leach,0,1,1,0,47,21,,,Gander ACC,Operations,FSS Team Supervisor,iFSS,No,1,1
+Jenn,Bath,0,1,1,0,47,21,,,Gander ACC,Operations,FSS Team Supervisor,iFSS,No,1,1
+Lloyd,Burt,0,1,1,0,47,21,,,Gander ACC,Operations,FSS Team Supervisor,iFSS,No,1,1
+Russell,Goulding,0,1,1,0,47,21,,,Gander ACC,Operations,FSS Team Supervisor,iFSS,No,1,1
+Scott,Young,0,1,1,0,47,21,,,Gander ACC,Operations,FSS Team Supervisor,iFSS,No,1,1
+Wayne,Layden,0,1,1,0,47,21,,,Gander ACC,Operations,FSS Team Supervisor,iFSS,No,1,1
+Steven,Cranford,0,1,1,0,31,21,,,Gander ACC,Operations,Flight Service Specialist Student,iFSS,No,1,1
+Jennifer,Tompkins,0,1,1,0,48,21,,,Gander ACC,Operations,Regional FSS Training Specialist,iFSS,No,1,1
+Whitney,Green,0,1,1,0,48,21,,,Gander ACC,Operations,Regional FSS Training Specialist,iFSS,No,1,1
+Andrew,Stares,0,9,1,0,1,22,,,Gander Tower,Operations,Air Traffic Controller,Tower,No,9,1
+Brad,Parsons,0,9,1,0,1,22,,,Gander Tower,Operations,Air Traffic Controller,Tower,No,9,1
+Christopher,White,0,9,1,0,1,22,,,Gander Tower,Operations,Air Traffic Controller,Tower,No,9,1
+Curtis,Barrett,0,9,1,0,1,22,,,Gander Tower,Operations,Air Traffic Controller,Tower,No,9,1
+Eli,James,0,9,1,0,1,22,,,Gander Tower,Operations,Air Traffic Controller,Tower,No,9,1
+Gary,Gilbert,0,9,1,0,1,22,,,Gander Tower,Operations,Air Traffic Controller,Tower,No,9,1
+Jeff,Lasher,0,9,1,0,1,22,,,Gander Tower,Operations,Air Traffic Controller,Tower,No,9,1
+Jim,Pinhorn,0,9,1,0,1,22,,,Gander Tower,Operations,Air Traffic Controller,Tower,No,9,1
+Matthew,Fifield,0,9,1,0,1,22,,,Gander Tower,Operations,Air Traffic Controller,Tower,No,9,1
+Megan,Hodder,0,9,1,0,1,22,,,Gander Tower,Operations,Air Traffic Controller,Tower,No,9,1
+Tanya,Keough,0,9,1,0,1,22,,,Gander Tower,Operations,Air Traffic Controller,Tower,No,9,1
+Alvin,Maloney,0,9,1,0,49,15,,,Gander Tower,Operations,Air Traffic Controller Student,Student,No,9,1
+William,Anderson,0,9,1,0,49,15,,,Gander Tower,Operations,Air Traffic Controller Student,Student,No,9,1
+Alonzo,Finlay,0,35,1,0,46,23,,,Deer Lake FSS,Operations,Flight Service Specialist,FSS,No,35,1
+Earl,Spencer,0,35,1,0,46,23,,,Deer Lake FSS,Operations,Flight Service Specialist,FSS,No,35,1
+James,Parks,0,35,1,0,46,23,,,Deer Lake FSS,Operations,Flight Service Specialist,FSS,No,35,1
+Jonothan,Burry,0,35,1,0,46,23,,,Deer Lake FSS,Operations,Flight Service Specialist,FSS,No,35,1
+Matthew,Stratton,0,35,1,0,46,23,,,Deer Lake FSS,Operations,Flight Service Specialist,FSS,No,35,1
+Stephen,Peddle,0,35,1,0,46,23,,,Deer Lake FSS,Operations,Flight Service Specialist,FSS,No,35,1
+Karen,Janes,0,35,1,0,47,23,,,Deer Lake FSS,Operations,FSS Team Supervisor,FSS,No,35,1
+Terry,Budden,0,9,1,0,50,22,,,Gander Tower,Operations,Unit Operations Specialist,Tower,No,9,1
+Adam,Ivany,0,1,1,0,1,1,,,Gander ACC,Operations,Air Traffic Controller,High ,No,1,1
+Adam,Lawrence,0,1,1,0,1,1,,,Gander ACC,Operations,Air Traffic Controller,High ,No,1,1
+Andrew,Kean,0,1,1,0,1,1,,,Gander ACC,Operations,Air Traffic Controller,High ,No,1,1
+Blair,Feltham,0,1,1,0,1,1,,,Gander ACC,Operations,Air Traffic Controller,High ,No,1,1
+Bradley,Fraser,0,1,1,0,1,1,,,Gander ACC,Operations,Air Traffic Controller,High ,No,1,1
+Bradley,Parsons,0,1,1,0,1,1,,,Gander ACC,Operations,Air Traffic Controller,High ,No,1,1
+Brian,MacLean,0,1,1,0,1,1,,,Gander ACC,Operations,Air Traffic Controller,High ,No,1,1
+Catherine,McCarthy,0,1,1,0,1,1,,,Gander ACC,Operations,Air Traffic Controller,High ,No,1,1
+Cecil,Saccary,0,1,1,0,1,1,,,Gander ACC,Operations,Air Traffic Controller,High ,No,1,1
+Chelsea,Freake,0,1,1,0,1,1,,,Gander ACC,Operations,Air Traffic Controller,High ,No,1,1
+Chris,Bursey,0,1,1,0,1,1,,,Gander ACC,Operations,Air Traffic Controller,High ,No,1,1
+Craig,Churchill,0,1,1,0,1,1,,,Gander ACC,Operations,Air Traffic Controller,High ,No,1,1
+Craig,Osmond,0,1,1,0,1,1,,,Gander ACC,Operations,Air Traffic Controller,High ,No,1,1
+Daniel,Graham,0,1,1,0,1,1,,,Gander ACC,Operations,Air Traffic Controller,High ,No,1,1
+Danielle,Stamp,0,1,1,0,1,1,,,Gander ACC,Operations,Air Traffic Controller,High ,No,1,1
+Denise,O'Keefe,0,1,1,0,1,1,,,Gander ACC,Operations,Air Traffic Controller,High ,No,1,1
+Dion,Abbott,0,1,1,0,1,1,,,Gander ACC,Operations,Air Traffic Controller,High ,No,1,1
+Dudley,Smith,0,1,1,0,1,1,,,Gander ACC,Operations,Air Traffic Controller,High ,No,1,1
+Duncan,MacPherson,0,1,1,0,1,1,,,Gander ACC,Operations,Air Traffic Controller,High ,No,1,1
+Dwight,Dawe,0,1,1,0,1,1,,,Gander ACC,Operations,Air Traffic Controller,High ,No,1,1
+Ethan,Dohaney,0,1,1,0,1,1,,,Gander ACC,Operations,Air Traffic Controller,High ,No,1,1
+Gregory,Pittman,0,1,1,0,1,1,,,Gander ACC,Operations,Air Traffic Controller,High ,No,1,1
+Heather,Saulnier,0,1,1,0,1,1,,,Gander ACC,Operations,Air Traffic Controller,High ,No,1,1
+Jason,Cooper,0,1,1,0,1,1,,,Gander ACC,Operations,Air Traffic Controller,High ,No,1,1
+Jason,LeCoure,0,1,1,0,1,1,,,Gander ACC,Operations,Air Traffic Controller,High ,No,1,1
+Jeremiah,Jesseau,0,1,1,0,1,1,,,Gander ACC,Operations,Air Traffic Controller,High ,No,1,1
+Katelyn,Fisher,0,1,1,0,1,1,,,Gander ACC,Operations,Air Traffic Controller,High ,No,1,1
+Kimberly,Perry,0,1,1,0,1,1,,,Gander ACC,Operations,Air Traffic Controller,High ,No,1,1
+Kristie,Boyd,0,1,1,0,1,1,,,Gander ACC,Operations,Air Traffic Controller,High ,No,1,1
+Matthew,Tavenor,0,1,1,0,1,1,,,Gander ACC,Operations,Air Traffic Controller,High ,No,1,1
+Michael,Alexander,0,1,1,0,1,1,,,Gander ACC,Operations,Air Traffic Controller,High ,No,1,1
+Michael,Cheeks,0,1,1,0,1,1,,,Gander ACC,Operations,Air Traffic Controller,High ,No,1,1
+Rodney,Penney,0,1,1,0,1,1,,,Gander ACC,Operations,Air Traffic Controller,High ,No,1,1
+Russell,Gosse,0,1,1,0,1,1,,,Gander ACC,Operations,Air Traffic Controller,High ,No,1,1
+Ryan,Matthews,0,1,1,0,1,1,,,Gander ACC,Operations,Air Traffic Controller,High ,No,1,1
+Sarah,Boland,0,1,1,0,1,1,,,Gander ACC,Operations,Air Traffic Controller,High ,No,1,1
+Shaun,Reid,0,1,1,0,1,1,,,Gander ACC,Operations,Air Traffic Controller,High ,No,1,1
+Stephanie,White,0,1,1,0,1,1,,,Gander ACC,Operations,Air Traffic Controller,High ,No,1,1
+Tina,Hedges,0,1,1,0,1,1,,,Gander ACC,Operations,Air Traffic Controller,High ,No,1,1
+Tony,Winsor,0,1,1,0,1,1,,,Gander ACC,Operations,Air Traffic Controller,High ,No,1,1
+Tyrone,Owens,0,1,1,0,1,1,,,Gander ACC,Operations,Air Traffic Controller,High ,No,1,1
+Vanessa,Cheeseman,0,1,1,0,1,1,,,Gander ACC,Operations,Air Traffic Controller,High ,No,1,1
+Ian,Penton,0,1,1,0,49,15,,,Gander ACC,Operations,Air Traffic Controller Student,Student,No,1,1
+Jagard,Strong,0,1,1,0,49,15,,,Gander ACC,Operations,Air Traffic Controller Student,Student,No,1,1
+Kelsey,Hackett,0,1,1,0,49,15,,,Gander ACC,Operations,Air Traffic Controller Student,Student,No,1,1
+Lucas,McLoughlin,0,1,1,0,49,15,,,Gander ACC,Operations,Air Traffic Controller Student,Student,No,1,1
+Magnus,Oake,0,1,1,0,49,15,,,Gander ACC,Operations,Air Traffic Controller Student,Student,No,1,1
+Matthew,French,0,1,1,0,49,15,,,Gander ACC,Operations,Air Traffic Controller Student,Student,No,1,1
+Rebekah,Clench,0,1,1,0,49,15,,,Gander ACC,Operations,Air Traffic Controller Student,Student,No,1,1
+Ryan,Osborne,0,1,1,0,49,15,,,Gander ACC,Operations,Air Traffic Controller Student,Student,No,1,1
+Stephen,Baldwin,0,1,1,0,49,15,,,Gander ACC,Operations,Air Traffic Controller Student,Student,No,1,1
+Craig,Lush,0,1,1,0,1,1,,,Gander ACC,Operations,Air Traffic Controller,High,No,1,1
+Stephen,Adams,0,1,1,0,49,1,,,Gander ACC,Operations,Air Traffic Controller Student,High ,No,1,1
+Andrew,Goulding,0,1,1,0,51,1,,,Gander ACC,Operations,ATC Team Supervisor,High ,No,1,1
+Carl,Gill,0,1,1,0,51,1,,,Gander ACC,Operations,ATC Team Supervisor,High ,No,1,1
+Dwaine,Russell,0,1,1,0,51,1,,,Gander ACC,Operations,ATC Team Supervisor,High ,No,1,1
+Jason,Fisher,0,1,1,0,51,1,,,Gander ACC,Operations,ATC Team Supervisor,High ,No,1,1
+John,Gill,0,1,1,0,51,1,,,Gander ACC,Operations,ATC Team Supervisor,High ,No,1,1
+Paul,Turner,0,1,1,0,51,1,,,Gander ACC,Operations,ATC Team Supervisor,High ,No,1,1
+Philip,Parsons,0,1,1,0,51,1,,,Gander ACC,Operations,ATC Team Supervisor,High ,No,1,1
+Shawn,Perry,0,1,1,0,51,1,,,Gander ACC,Operations,ATC Team Supervisor,High ,No,1,1
+Stephen,Patey,0,1,1,0,51,1,,,Gander ACC,Operations,ATC Team Supervisor,High ,No,1,1
+Alexander,Parsons,0,1,1,0,1,2,,,Gander ACC,Operations,Air Traffic Controller,Low,No,1,1
+Brandon,Mills,0,1,1,0,1,2,,,Gander ACC,Operations,Air Traffic Controller,Low,No,1,1
+Breanne,Pownall,0,1,1,0,1,2,,,Gander ACC,Operations,Air Traffic Controller,Low,No,1,1
+Brian,Kean,0,1,1,0,1,2,,,Gander ACC,Operations,Air Traffic Controller,Low,No,1,1
+Carla,Humphries,0,1,1,0,1,2,,,Gander ACC,Operations,Air Traffic Controller,Low,No,1,1
+Chris,Downton,0,1,1,0,1,2,,,Gander ACC,Operations,Air Traffic Controller,Low,No,1,1
+Dennis,Mitchell,0,1,1,0,1,2,,,Gander ACC,Operations,Air Traffic Controller,Low,No,1,1
+Gerald,Hamilton,0,1,1,0,1,2,,,Gander ACC,Operations,Air Traffic Controller,Low,No,1,1
+Jamie,Peddle,0,1,1,0,1,2,,,Gander ACC,Operations,Air Traffic Controller,Low,No,1,1
+Jeffrey,Steele,0,1,1,0,1,2,,,Gander ACC,Operations,Air Traffic Controller,Low,No,1,1
+Jocelyn,Sheppard,0,1,1,0,1,2,,,Gander ACC,Operations,Air Traffic Controller,Low,No,1,1
+Jordan,Knee,0,1,1,0,1,2,,,Gander ACC,Operations,Air Traffic Controller,Low,No,1,1
+Julie,Samson,0,1,1,0,1,2,,,Gander ACC,Operations,Air Traffic Controller,Low,No,1,1
+Marc,Simpson,0,1,1,0,1,2,,,Gander ACC,Operations,Air Traffic Controller,Low,No,1,1
+Maxwell,Burt,0,1,1,0,1,2,,,Gander ACC,Operations,Air Traffic Controller,Low,No,1,1
+Rodney,Feltham,0,1,1,0,1,2,,,Gander ACC,Operations,Air Traffic Controller,Low,No,1,1
+Scott,George,0,1,1,0,1,2,,,Gander ACC,Operations,Air Traffic Controller,Low,No,1,1
+Susan,Langdon,0,1,1,0,1,2,,,Gander ACC,Operations,Air Traffic Controller,Low,No,1,1
+Carly,Gillingham,0,1,1,0,4,4,,,Gander ACC,Operations,Air Traffic Operations Specialist,ATOS,No,1,1
+Christopher,Hoyles,0,1,1,0,4,4,,,Gander ACC,Operations,Air Traffic Operations Specialist,ATOS,No,1,1
+Gary,Cheeks,0,1,1,0,4,4,,,Gander ACC,Operations,Air Traffic Operations Specialist,ATOS,No,1,1
+Justin,Parsons,0,1,1,0,4,4,,,Gander ACC,Operations,Air Traffic Operations Specialist,ATOS,No,1,1
+Kevin,Vienneau,0,1,1,0,4,4,,,Gander ACC,Operations,Air Traffic Operations Specialist,ATOS,No,1,1
+Lanny,Burden,0,1,1,0,4,4,,,Gander ACC,Operations,Air Traffic Operations Specialist,ATOS,No,1,1
+Leo,Horne,0,1,1,0,4,4,,,Gander ACC,Operations,Air Traffic Operations Specialist,ATOS,No,1,1
+Mahalia,Hillier,0,1,1,0,4,4,,,Gander ACC,Operations,Air Traffic Operations Specialist,ATOS,No,1,1
+Mark,Button,0,1,1,0,4,4,,,Gander ACC,Operations,Air Traffic Operations Specialist,ATOS,No,1,1
+Matthew,Brazil,0,1,1,0,4,4,,,Gander ACC,Operations,Air Traffic Operations Specialist,ATOS,No,1,1
+Nathan,Smallwood,0,1,1,0,4,4,,,Gander ACC,Operations,Air Traffic Operations Specialist,ATOS,No,1,1
+Sonya,Snow,0,1,1,0,4,4,,,Gander ACC,Operations,Air Traffic Operations Specialist,ATOS,No,1,1
+Stephen,Canning,0,1,1,0,4,4,,,Gander ACC,Operations,Air Traffic Operations Specialist,ATOS,No,1,1
+Traci,Foley,0,1,1,0,4,4,,,Gander ACC,Operations,Air Traffic Operations Specialist,ATOS,No,1,1
+Russell,Olstad,0,1,1,0,52,4,,,Gander ACC,Operations,ATOS Supervisor,ATOS,No,1,1
+Steven,Snow,0,1,1,0,52,4,,,Gander ACC,Operations,ATOS Supervisor,ATOS,No,1,1
+Mallory,Cooper,0,1,1,0,49,4,,,Gander ACC,Operations,Air Traffic Controller Student,ATOS,No,1,1
+Myles,Harnum,0,1,1,0,49,4,,,Gander ACC,Operations,Air Traffic Controller Student,ATOS,No,1,1
+Christopher,Wellon,0,1,1,0,51,2,,,Gander ACC,Operations,ATC Team Supervisor,Low,No,1,1
+Dean,King,0,1,1,0,51,2,,,Gander ACC,Operations,ATC Team Supervisor,Low,No,1,1
+Donald,O'Brien,0,1,1,0,51,2,,,Gander ACC,Operations,ATC Team Supervisor,Low,No,1,1
+Adam,Lake,0,1,1,0,1,3,,,Gander ACC,Operations,Air Traffic Controller,ICAO,No,1,1
+Aditi,Batson,0,1,1,0,1,3,,,Gander ACC,Operations,Air Traffic Controller,ICAO,No,1,1
+Amanda,Penney,0,1,1,0,1,3,,,Gander ACC,Operations,Air Traffic Controller,ICAO,No,1,1
+Anthony,Batson,0,1,1,0,1,3,,,Gander ACC,Operations,Air Traffic Controller,ICAO,No,1,1
+Ashleigh,Pinsent,0,1,1,0,1,3,,,Gander ACC,Operations,Air Traffic Controller,ICAO,No,1,1
+Brad,Stratton,0,1,1,0,1,3,,,Gander ACC,Operations,Air Traffic Controller,ICAO,No,1,1
+Brandon,King,0,1,1,0,1,3,,,Gander ACC,Operations,Air Traffic Controller,ICAO,No,1,1
+Brandon,Ryan,0,1,1,0,1,3,,,Gander ACC,Operations,Air Traffic Controller,ICAO,No,1,1
+Brian,Ricketts,0,1,1,0,1,3,,,Gander ACC,Operations,Air Traffic Controller,ICAO,No,1,1
+Brian,Warford,0,1,1,0,1,3,,,Gander ACC,Operations,Air Traffic Controller,ICAO,No,1,1
+Carolyn,Patey,0,1,1,0,1,3,,,Gander ACC,Operations,Air Traffic Controller,ICAO,No,1,1
+Chad,Angell,0,1,1,0,1,3,,,Gander ACC,Operations,Air Traffic Controller,ICAO,No,1,1
+Chad,Yetman,0,1,1,0,1,3,,,Gander ACC,Operations,Air Traffic Controller,ICAO,No,1,1
+Craig,McCarthy,0,1,1,0,1,3,,,Gander ACC,Operations,Air Traffic Controller,ICAO,No,1,1
+Daniel,Purcell,0,1,1,0,1,3,,,Gander ACC,Operations,Air Traffic Controller,ICAO,No,1,1
+David,Frampton,0,1,1,0,1,3,,,Gander ACC,Operations,Air Traffic Controller,ICAO,No,1,1
+David,Jenkins,0,1,1,0,1,3,,,Gander ACC,Operations,Air Traffic Controller,ICAO,No,1,1
+Denis,Briffett,0,1,1,0,1,3,,,Gander ACC,Operations,Air Traffic Controller,ICAO,No,1,1
+Desmond,Jesseau,0,1,1,0,1,3,,,Gander ACC,Operations,Air Traffic Controller,ICAO,No,1,1
+Elizabeth,Stuckey,0,1,1,0,1,3,,,Gander ACC,Operations,Air Traffic Controller,ICAO,No,1,1
+Glenn,Locke,0,1,1,0,1,3,,,Gander ACC,Operations,Air Traffic Controller,ICAO,No,1,1
+Gregory,Edwards,0,1,1,0,1,3,,,Gander ACC,Operations,Air Traffic Controller,ICAO,No,1,1
+Heather,Picco,0,1,1,0,1,3,,,Gander ACC,Operations,Air Traffic Controller,ICAO,No,1,1
+Holly,Oxford,0,1,1,0,1,3,,,Gander ACC,Operations,Air Traffic Controller,ICAO,No,1,1
+Hubert,McGrath,0,1,1,0,1,3,,,Gander ACC,Operations,Air Traffic Controller,ICAO,No,1,1
+Jake,Abbott,0,1,1,0,1,3,,,Gander ACC,Operations,Air Traffic Controller,ICAO,No,1,1
+Jared,Bennett,0,1,1,0,1,3,,,Gander ACC,Operations,Air Traffic Controller,ICAO,No,1,1
+Jason,Mackey,0,1,1,0,1,3,,,Gander ACC,Operations,Air Traffic Controller,ICAO,No,1,1
+Jason,White,0,1,1,0,1,3,,,Gander ACC,Operations,Air Traffic Controller,ICAO,No,1,1
+Jeffrey,Snow,0,1,1,0,1,3,,,Gander ACC,Operations,Air Traffic Controller,ICAO,No,1,1
+Jennifer,Sheppard,0,1,1,0,1,3,,,Gander ACC,Operations,Air Traffic Controller,ICAO,No,1,1
+Jeremiah,Harder,0,1,1,0,1,3,,,Gander ACC,Operations,Air Traffic Controller,ICAO,No,1,1
+Jillian,Eisan,0,1,1,0,1,3,,,Gander ACC,Operations,Air Traffic Controller,ICAO,No,1,1
+John,Keeping,0,1,1,0,1,3,,,Gander ACC,Operations,Air Traffic Controller,ICAO,No,1,1
+John,Kenney,0,1,1,0,1,3,,,Gander ACC,Operations,Air Traffic Controller,ICAO,No,1,1
+John,McCormack,0,1,1,0,1,3,,,Gander ACC,Operations,Air Traffic Controller,ICAO,No,1,1
+John,Pinsent,0,1,1,0,1,3,,,Gander ACC,Operations,Air Traffic Controller,ICAO,No,1,1
+Joshua,Lethbridge,0,1,1,0,1,3,,,Gander ACC,Operations,Air Traffic Controller,ICAO,No,1,1
+Julee,O'Keefe,0,1,1,0,1,3,,,Gander ACC,Operations,Air Traffic Controller,ICAO,No,1,1
+Kelly,Dunn,0,1,1,0,1,3,,,Gander ACC,Operations,Air Traffic Controller,ICAO,No,1,1
+Mark,Colbourne,0,1,1,0,1,3,,,Gander ACC,Operations,Air Traffic Controller,ICAO,No,1,1
+Mark,Gillmor,0,1,1,0,1,3,,,Gander ACC,Operations,Air Traffic Controller,ICAO,No,1,1
+Nathan,Philp,0,1,1,0,1,3,,,Gander ACC,Operations,Air Traffic Controller,ICAO,No,1,1
+Rebecca,Torraville,0,1,1,0,1,3,,,Gander ACC,Operations,Air Traffic Controller,ICAO,No,1,1
+Richard,Young,0,1,1,0,1,3,,,Gander ACC,Operations,Air Traffic Controller,ICAO,No,1,1
+Robyn,Chaulk,0,1,1,0,1,3,,,Gander ACC,Operations,Air Traffic Controller,ICAO,No,1,1
+Sheila,Ducey,0,1,1,0,1,3,,,Gander ACC,Operations,Air Traffic Controller,ICAO,No,1,1
+Sheldon,Clarke,0,1,1,0,1,3,,,Gander ACC,Operations,Air Traffic Controller,ICAO,No,1,1
+Steven,Elms,0,1,1,0,1,3,,,Gander ACC,Operations,Air Traffic Controller,ICAO,No,1,1
+Terry,Tiller,0,1,1,0,1,3,,,Gander ACC,Operations,Air Traffic Controller,ICAO,No,1,1
+Todd,Baldwin,0,1,1,0,1,3,,,Gander ACC,Operations,Air Traffic Controller,ICAO,No,1,1
+Trevor,Fleming,0,1,1,0,1,3,,,Gander ACC,Operations,Air Traffic Controller,ICAO,No,1,1
+Trevor,White,0,1,1,0,1,3,,,Gander ACC,Operations,Air Traffic Controller,ICAO,No,1,1
+Tyler,Hodder,0,1,1,0,1,3,,,Gander ACC,Operations,Air Traffic Controller,ICAO,No,1,1
+Brandon,Saulnier,0,1,1,0,49,15,,,Gander ACC,Operations,Air Traffic Controller Student,Student,No,1,1
+Cassia,Parsons,0,1,1,0,49,15,,,Gander ACC,Operations,Air Traffic Controller Student,Student,No,1,1
+Chris,Maloney,0,1,1,0,49,15,,,Gander ACC,Operations,Air Traffic Controller Student,Student,No,1,1
+Marc-Alexandre,Mestres,0,1,1,0,49,15,,,Gander ACC,Operations,Air Traffic Controller Student,Student,No,1,1
+Ryan,Thomas,0,1,1,0,49,15,,,Gander ACC,Operations,Air Traffic Controller Student,Student,No,1,1
+Samantha,Tinkham,0,1,1,0,49,15,,,Gander ACC,Operations,Air Traffic Controller Student,Student,No,1,1
+Tanner,Acreman,0,1,1,0,49,15,,,Gander ACC,Operations,Air Traffic Controller Student,Student,No,1,1
+Thomas,Burt,0,1,1,0,49,15,,,Gander ACC,Operations,Air Traffic Controller Student,Student,No,1,1
+Victoria,White,0,1,1,0,49,15,,,Gander ACC,Operations,Air Traffic Controller Student,Student,No,1,1
+Zachary,Gill,0,1,1,0,49,15,,,Gander ACC,Operations,Air Traffic Controller Student,Student,No,1,1
+Charles,McCormack,0,1,1,0,49,3,,,Gander ACC,Operations,Air Traffic Controller Student,ICAO,No,1,1
+Andrew,Kelloway,0,1,1,0,51,3,,,Gander ACC,Operations,ATC Team Supervisor,ICAO,No,1,1
+David,Tuff,0,1,1,0,51,3,,,Gander ACC,Operations,ATC Team Supervisor,ICAO,No,1,1
+Glen,Yetman,0,1,1,0,51,3,,,Gander ACC,Operations,ATC Team Supervisor,ICAO,No,1,1
+Jeffrey,Saunders,0,1,1,0,51,3,,,Gander ACC,Operations,ATC Team Supervisor,ICAO,No,1,1
+Jerry,Collins,0,1,1,0,51,3,,,Gander ACC,Operations,ATC Team Supervisor,ICAO,No,1,1
+Patrick,Coleman,0,1,1,0,51,3,,,Gander ACC,Operations,ATC Team Supervisor,ICAO,No,1,1
+Richard,Kendall,0,1,1,0,51,3,,,Gander ACC,Operations,ATC Team Supervisor,ICAO,No,1,1
+Wayne,Badcock,0,1,1,0,51,3,,,Gander ACC,Operations,ATC Team Supervisor,ICAO,No,1,1
+Douglas,Dillon,8,1,1,0,,13,,,Gander ACC,Operations,"Program Director, Service Delivery Initiatives",N/A,Yes,1,1
+Matthew,Strickland,8,1,1,0,54,13,,,Gander ACC,Operations,"Manager, International and North Atlantic Standards",N/A,Yes,1,1
+Paul,Fogwill,0,1,1,0,55,13,,,Gander ACC,Operations,FSS Airport Operations Specialist,N/A,No,1,1
+Dave,Warren,0,1,1,0,56,13,,,Gander ACC,Operations,Unit Procedures Specialist,N/A,No,1,1
+Peter,White,0,1,1,0,56,13,,,Gander ACC,Operations,Unit Procedures Specialist,N/A,No,1,1
+Ric,Newhook,0,1,1,0,56,13,,,Gander ACC,Operations,Unit Procedures Specialist,N/A,No,1,1
+Cameron,Stoyles,0,10,1,0,1,22,,,St John's Tower,Operations,Air Traffic Controller,Tower,No,10,1
+Krista,Bowman,0,10,1,0,1,22,,,St John's Tower,Operations,Air Traffic Controller,Tower,No,10,1
+Lori,Squibb,0,10,1,0,1,22,,,St John's Tower,Operations,Air Traffic Controller,Tower,No,10,1
+Raelene,Crowe,0,10,1,0,1,22,,,St John's Tower,Operations,Air Traffic Controller,Tower,No,10,1
+Robin,Saldanha,0,10,1,0,1,22,,,St John's Tower,Operations,Air Traffic Controller,Tower,No,10,1
+Ryan,Spencer,0,10,1,0,1,22,,,St John's Tower,Operations,Air Traffic Controller,Tower,No,10,1
+Sean,Manning,0,10,1,0,1,22,,,St John's Tower,Operations,Air Traffic Controller,Tower,No,10,1
+Steven,Butt,0,10,1,0,1,22,,,St John's Tower,Operations,Air Traffic Controller,Tower,No,10,1
+Travis,Hodder,0,10,1,0,1,22,,,St John's Tower,Operations,Air Traffic Controller,Tower,No,10,1
+William,Altieri,0,10,1,0,1,22,,,St John's Tower,Operations,Air Traffic Controller,Tower,No,10,1
+William,Sellars,0,10,1,0,1,22,,,St John's Tower,Operations,Air Traffic Controller,Tower,No,10,1
+Jordan,Simms,0,10,1,0,49,15,,,St John's Tower,Operations,Air Traffic Controller Student,Student,No,10,1
+Josh,Lawlor,0,10,1,0,49,15,,,St John's Tower,Operations,Air Traffic Controller Student,Student,No,10,1
+Justin,Tizzard,0,34,1,0,46,23,,,Wabush FSS,Operations,Flight Service Specialist,FSS,No,34,1
+Max,Cuff,0,34,1,0,46,23,,,Wabush FSS,Operations,Flight Service Specialist,FSS,No,34,1
+Nancy,Loder,0,34,1,0,46,23,,,Wabush FSS,Operations,Flight Service Specialist,FSS,No,34,1
+Natalie,Hiscock,0,34,1,0,46,23,,,Wabush FSS,Operations,Flight Service Specialist,FSS,No,34,1
+Olivia,Woldeghiorghis-Stratton,0,34,1,0,46,23,,,Wabush FSS,Operations,Flight Service Specialist,FSS,No,34,1
+Alexander,Simms,0,34,1,0,47,23,,,Wabush FSS,Operations,FSS Team Supervisor,FSS,No,34,1
+Tony,Barron,0,1,1,0,57,13,,,Gander ACC,Operations,Site Manager,N/A,No,1,1
+Chris,Blandford,8,1,1,0,9,21,,,Gander ACC,Operations,Unit Manager,iFSS,Yes,1,1
+Robert,Evans,0,10,1,0,50,22,,,St John's Tower,Operations,Unit Operations Specialist,Tower,No,10,1
+Albert,Bennett,8,1,1,0,10,13,,,Gander ACC,Operations,Operations Duty Manager,N/A,Yes,1,1
+Brian,Hicks,0,1,1,0,10,13,,,Gander ACC,Operations,Operations Duty Manager,N/A,No,1,1
+Nicole,Newell,8,1,1,0,10,13,,,Gander ACC,Operations,Operations Duty Manager,N/A,Yes,1,1
+Sheldon,Russell,8,1,1,0,10,13,,,Gander ACC,Operations,Operations Duty Manager,N/A,Yes,1,1
+Wade,Adams,8,1,1,0,10,13,,,Gander ACC,Operations,Operations Duty Manager,N/A,Yes,1,1
+Mark,Tinkham,8,1,1,0,9,1,,,Gander ACC,Operations,Unit Manager,High,Yes,1,1
+Sheldon,Moore,8,1,1,0,9,2,,,Gander ACC,Operations,Unit Manager,"LOW, ATOS",Yes,1,1
+Tracey,Vatcher,8,1,1,0,9,3,,,Gander ACC,Operations,Unit Manager,ICAO,Yes,1,1
+Robert,Fleming,8,1,2,0,11,13,,,Gander ACC,Technology,Manager ACC Operations,N/A,Yes,1,2
+Ashley,Sheppard,0,1,2,0,58,13,,,Gander ACC,Technology,Administrative Clerk,N/A,No,1,2
+Marina,John,0,1,2,0,58,13,,,Gander ACC,Technology,Administrative Clerk,N/A,No,1,2
+Angela,Cayouette,8,1,2,0,14,5,,,Gander ACC,Technology,ATM Technical Services Manager,ATM,Yes,1,2
+Daryl,King,8,1,2,0,13,26,,,Gander ACC,Technology,CNS Technical Services Manager,CNS,Yes,1,2
+Jordan,Lee,8,1,2,0,13,7,,,Gander ACC,Technology,CNS Technical Services Manager,Deployment,Yes,1,2
+Todd,Clark,8,1,2,0,,13,,,Gander ACC,Technology,Technical Services TIM - Gander,N/A,Yes,1,2
+Mitchell,Fowler,0,1,2,0,60,11,,,Gander ACC,Technology,Technical Instructor,Instructor,No,1,2
+Jacob,Young,0,1,2,0,60,11,,,Gander ACC,Technology,Technical Instructor,Instructor,No,1,2
+Jason,Oram,8,1,2,0,12,13,,,Gander ACC,Technology,Technical Services Manager,N/A,Yes,1,2
+Peter,Wiseman,0,1,2,0,61,5,,,Gander ACC,Technology,Technical Services Team Supervisor,ATM,No,1,2
+Robert,Gillingham,0,1,2,0,61,5,,,Gander ACC,Technology,Technical Services Team Supervisor,ATM,No,1,2
+Adam,Pelley,0,1,2,0,,5,,,Gander ACC,Technology,Technologist,ATM,No,1,2
+Armin,Keller,0,1,2,0,,5,,,Gander ACC,Technology,Technologist,ATM,No,1,2
+Bradley,Rowe,0,1,2,0,,5,,,Gander ACC,Technology,Technologist,ATM,No,1,2
+Devan,Vokey,0,1,2,0,,5,,,Gander ACC,Technology,Technologist,ATM,No,1,2
+Jonathan,Caines,0,1,2,0,,5,,,Gander ACC,Technology,Technologist,ATM,No,1,2
+Jordan,Stuckless,0,1,2,0,,5,,,Gander ACC,Technology,Technologist,ATM,No,1,2
+Ken,Foote,0,1,2,0,,5,,,Gander ACC,Technology,Technologist,ATM,No,1,2
+Matthew,Hulan,0,1,2,0,,5,,,Gander ACC,Technology,Technologist,ATM,No,1,2
+Melissa,Costello-Lushman,0,1,2,0,,5,,,Gander ACC,Technology,Technologist,ATM,No,1,2
+Michael,Caines,0,1,2,0,,5,,,Gander ACC,Technology,Technologist,ATM,No,1,2
+Michael,Menchenton,0,1,2,0,,5,,,Gander ACC,Technology,Technologist,ATM,No,1,2
+Paul,Whelan,0,1,2,0,,5,,,Gander ACC,Technology,Technologist,ATM,No,1,2
+Sherwin,Harvey,0,1,2,0,,5,,,Gander ACC,Technology,Technologist,ATM,No,1,2
+Steven,Dillon,0,1,2,0,,5,,,Gander ACC,Technology,Technologist,ATM,No,1,2
+Jeffrey,Janes,0,1,2,0,8,7,,,Gander ACC,Technology,Project Lead,Deployment,No,1,2
+Robert,Dobbin,0,1,2,0,8,7,,,Gander ACC,Technology,Project Lead,Deployment,No,1,2
+Stephen,Genge,0,1,2,0,8,7,,,Gander ACC,Technology,Project Lead,Deployment,No,1,2
+Troy,Smith,0,1,2,0,8,7,,,Gander ACC,Technology,Project Lead,Deployment,No,1,2
+Victor,Goodyear,0,1,2,0,8,7,,,Gander ACC,Technology,Project Lead,Deployment,No,1,2
+Paul,MacDonald,0,1,2,0,62,7,,,Gander ACC,Technology,Project Delivery Team Supervisor,Deployment,No,1,2
+Joshua,Kieley,0,1,2,0,63,6,,,Gander ACC,Technology,Technologist Student,CNS,No,1,2
+Christian,Butt,0,36,2,0,63,6,,,Goose Bay TSC,Technology,Technologist Student,CNS,No,36,2
+Christopher,O'Dell,0,36,2,0,63,6,,,Goose Bay TSC,Technology,Technologist Student,CNS,No,36,2
+Paul,George,0,1,2,0,64,6,,,Gander ACC,Technology,Maintenance Specialist ,CNS,No,1,2
+Terry,Kennedy,0,1,2,0,65,26,,,Gander ACC,Technology,Technical Services Coordinator,Coordinator,No,1,2
+Craig,Poole,0,1,2,0,61,6,,,Gander ACC,Technology,Technical Services Team Supervisor ,CNS,No,1,2
+Gerard,Duffy,0,1,2,0,61,6,,,Gander ACC,Technology,Technical Services Team Supervisor ,CNS,No,1,2
+Olivia,Ritch-Clark,0,36,2,0,61,6,,,Goose Bay TSC,Technology,Technical Services Team Supervisor ,CNS,No,36,2
+Ryan,Kearley,0,36,2,0,61,6,,,Goose Bay TSC,Technology,Technical Services Team Supervisor ,CNS,No,36,2
+Paul,Browne,0,10,2,0,61,6,,,St John's Tower,Technology,Technical Services Team Supervisor ,CNS,No,10,2
+David,Shaw,0,1,2,0,6,6,,,Gander ACC,Technology,Technologist,CNS,No,1,2
+Jeremy,Rideout,0,1,2,0,6,6,,,Gander ACC,Technology,Technologist,CNS,No,1,2
+Michael,Dobbin,0,1,2,0,6,6,,,Gander ACC,Technology,Technologist,CNS,No,1,2
+Brian,Edwards,0,36,2,0,6,6,,,Goose Bay TSC,Technology,Technologist,CNS,No,36,2
+Bor,Chambers,0,10,2,0,6,6,,,St John's Tower,Technology,Technologist,CNS,No,10,2
+Joshua,Taylor,0,10,2,0,6,6,,,St John's Tower,Technology,Technologist,CNS,No,10,2
+Marc,Alivio,0,10,2,0,6,6,,,St John's Tower,Technology,Technologist,CNS,No,10,2
+Adam,Webb,0,36,2,0,63,6,,,Goose Bay TSC,Technology,Technologist Student,CNS,No,36,2
+Andrew,Proudfoot,0,1,2,0,2,8,,,Gander ACC,Technology,Data Systems Coordinator,DSC,No,1,2
+Dwayne,Puddister,0,1,2,0,2,8,,,Gander ACC,Technology,Data Systems Coordinator,DSC,No,1,2
+Greg,King,0,1,2,0,2,8,,,Gander ACC,Technology,Data Systems Coordinator,DSC,No,1,2
+Jarvis,Reardon,0,1,2,0,2,8,,,Gander ACC,Technology,Data Systems Coordinator,DSC,No,1,2
+Jeffrey,Northcott,0,1,2,0,2,8,,,Gander ACC,Technology,Data Systems Coordinator,DSC,No,1,2
+Justin,Mouland,0,1,2,0,2,8,,,Gander ACC,Technology,Data Systems Coordinator,DSC,No,1,2
+Kris,MacLeod,0,1,2,0,2,8,,,Gander ACC,Technology,Data Systems Coordinator,DSC,No,1,2
+Matthew,Kelly,0,1,2,0,2,8,,,Gander ACC,Technology,Data Systems Coordinator,DSC,No,1,2
+Stephen,Humphries,0,1,2,0,2,8,,,Gander ACC,Technology,Data Systems Coordinator,DSC,No,1,2
+John,King,0,1,2,0,66,8,,,Gander ACC,Technology,Data Systems Coordinator Student,DSC,No,1,2
+Keith,Clarke,0,1,2,0,66,8,,,Gander ACC,Technology,Data Systems Coordinator Student,DSC,No,1,2
+John,Mahoney,0,1,2,0,67,9,,,Gander ACC,Technology,TOC Team Supervisor,TOC,No,1,2
+Thomas,Caines,0,1,2,0,6,9,,,Gander ACC,Technology,Technologist,TOC,No,1,2
+David,Price,0,1,2,0,3,9,,,Gander ACC,Technology,Technology Operations Coordinator,TOC,No,1,2
+Gregory,Gill,0,1,2,0,3,9,,,Gander ACC,Technology,Technology Operations Coordinator,TOC,No,1,2
+James,Kemp,0,1,2,0,3,9,,,Gander ACC,Technology,Technology Operations Coordinator,TOC,No,1,2
+Jerry,Walsh,0,1,2,0,3,9,,,Gander ACC,Technology,Technology Operations Coordinator,TOC,No,1,2
+Joshua,King,0,1,2,0,3,9,,,Gander ACC,Technology,Technology Operations Coordinator,TOC,No,1,2
+Ruby,Hindy,0,1,1,0,68,13,,,Gander ACC,Operations,Shift Scheduling Specialist,N/A,No,1,1
+Kathryn,Bauld,0,1,1,0,68,13,,,Gander ACC,Operations,Shift Scheduling Specialist,N/A,No,1,1
+Melodie,Granter,0,1,1,0,68,13,,,Gander ACC,Operations,Shift Scheduling Specialist,N/A,No,1,1
+LuAnne,Reardon,0,1,1,0,69,13,,,Gander ACC,Operations,"Supervisor, Shift Scheduling",N/A,No,1,1

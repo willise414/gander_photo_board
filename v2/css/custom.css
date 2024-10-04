@@ -1,0 +1,34 @@
+:root {
+  --color-primary: #005ba2;
+  --color-primary-light: #048abf;
+  --color-light-blue: #007dbb;
+  --color-white: #ffffff;
+}
+a {
+  text-decoration: none;
+  list-style: none;
+}
+img {
+  border-radius: 50%;
+}
+
+.container-fluid span {
+  background: var(--color-primary);
+}
+
+.container-fluid .h1 {
+  font-size: 7rem;
+  color: var(--color-white);
+}
+.card-body h3 {
+  font-size: 1.5rem;
+  color: var(--color-white);
+}
+.card {
+  background: var(--color-primary);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: 1rem;
+}
