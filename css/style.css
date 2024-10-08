@@ -129,15 +129,16 @@ nav button i {
 .specialty {
   background: var(--color-white) !important;
   color: var(--color-primary);
-  width: 60%;
-  text-align: center;
+  width: 80%;
+
+  align-items: center;
   border-radius: 30px;
   margin-bottom: 1rem;
-  font-size: 0.5rem;
+
+  font-size: 0.7rem;
 }
 .specialty h2 {
-  color: var(--color-primary);
-  font-size: 0.6rem;
+  padding: 5rem;
 }
 
 /* .specialty__selection {
@@ -250,7 +251,7 @@ form #form__submit {
   text-align: center;
 }
 .employee_card h2 {
-  font-size: 0.6rem;
+  font-size: 0.7rem;
 
   padding-bottom: 0.3rem;
 }
